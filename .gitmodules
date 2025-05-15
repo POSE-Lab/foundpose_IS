@@ -1,0 +1,3 @@
+[submodule "foundpose"]
+	path = foundpose
+	url = https://github.com/facebookresearch/foundpose
