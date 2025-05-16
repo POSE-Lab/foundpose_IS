@@ -1,4 +1,4 @@
-# _IS
+# foundpose_IS
 
 Run foundpose on IndustryShapes:
 
